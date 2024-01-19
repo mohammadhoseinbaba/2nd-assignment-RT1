@@ -1,7 +1,4 @@
-### Name: Mohammadhossein baba
-### GITHUB https://github.com/mohammadhoseinbaba
-### MATRICOLA  S5919466
-
+Name Mohammadhossein baba S5919466
 Welcome to the second assignment for the Research Track 1 course. This assignment focuses on creating a new package that contains three nodes responsible for controlling robot movement in a specific environment and gathering relevant data. Let's dive into the details:
 
 ### Nodes:
