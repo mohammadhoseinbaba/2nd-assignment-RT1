@@ -42,13 +42,3 @@ $ chmod +x node_c.py
 ```bash
 $ roslaunch assignment_2_2023 assignment1.launch
 ```
-
-### Enhancements:
-
-Here are a couple of possible improvements for the code:
-
-1. In the `node_c.py` node, consider implementing a threshold to ignore minor changes in distance when publishing messages before a goal is defined. This can help prevent slight increases in distance over time.
-
-2. Currently, when the robot encounters a wall, it turns in a fixed direction without considering the shortest path. To enhance this behavior, modify the algorithm to calculate the optimal direction for turning.
-
-Feel free to explore and experiment with the provided codebase. Happy coding!
